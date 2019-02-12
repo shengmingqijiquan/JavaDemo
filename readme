@@ -1,0 +1,7 @@
+这篇demo较长，包含了java基本的内容，若不是出于校验自己java基础能力的朋友，建议按照上面的链接分章节学习。本demo包含了java的数组、对象、对象属性、接口，面向对象，重载，多态、封装、字符串、正则表达式、函数、参数、容器、算法、线程、异常等方面的知识，可以全面检验你的java学习效果。
+
+此demo包括文件：测试文件index.java和接口interface1.java、接口interface2.java、基类Student.java、派生类Monitor.java文件
+#### Student.java实现了一个java基类
+#### Interface1.java定义了一个接口
+#### Interface2.java实现了一个派生接口
+#### Monitor.java文件实现了一个继承自Student，并继承自Interface1和Interface2的派生类
